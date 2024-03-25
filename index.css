@@ -1,0 +1,108 @@
+*{
+ 
+  text-align: left;
+  padding: 5px 50px 10px 50px;
+font-family: sans-serif Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#email{
+  display: block;
+margin-bottom: 20px;
+padding: 20px 200px 20px 5px;
+border: 0px;
+border-radius: 4px;
+background-color: #fefe;
+font-size: 16px;
+
+}
+
+
+#Uname{
+  display: block;
+margin-bottom: 20px;
+padding: 20px 200px 20px 5px;
+border: 0px;
+border-radius: 4px;
+background-color: #fefe;
+font-size: 16px;
+
+}
+
+#pass{
+display: block;
+margin-bottom: 20px;
+padding: 20px 200px 20px 5px;
+border: 0px;
+border-radius: 4px;
+background-color: #fefe;
+font-size: 16px;
+
+}
+#cpass{
+  display: block;
+  margin-bottom: 20px;
+  padding: 20px 200px 20px 5px;
+  border: 0px;
+  border-radius: 4px;
+  background-color: #fefe;
+  font-size: 16px;
+
+}
+
+
+  button{
+    display: block;
+    margin-bottom: 50px;
+    padding: 1rem 8rem 1rem 8rem;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration: none;
+  
+  }
+
+
+ 
+button[type="login"]{
+  background-color: darkgreen;
+  color: #fff;
+
+ }
+ button[type ="google"]{
+  background: url(img/google.png)  no-repeat;
+ background-size: 30px ;
+ background-position: 23%;
+ text-decoration: none;
+ }
+
+ button[type ="twiter"]{
+  background: url(img/twiter.png) no-repeat;
+background-size: 30px;
+background-position: 23%;
+text-decoration: none;
+
+ }
+
+ button{
+  display: block;
+  margin-bottom: 50px;
+  padding: 1rem 8rem 1rem 8rem;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+
+}
+
+
+
+
+
+#fp,#web{ 
+margin-left: 20px;
+padding: 10px 20px;
+border: 20px;
+font-size: medium;
+font-weight: 400;
+}
